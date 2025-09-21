@@ -1,0 +1,6 @@
+# robots.txt for Javad Beig Portfolio
+User-agent: *
+Allow: /
+
+# Sitemap location (important for SEO)
+Sitemap: https://javad-beig.github.io/sitemap.xml
