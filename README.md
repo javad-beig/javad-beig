@@ -3,9 +3,6 @@ https://javad-beig.github.io/assets/og-image.jpg
 
 A professional portfolio website showcasing Javad Beig's mechanical engineering projects, skills, education, and professional experience.
 
-🌐 Live Demo
-View Portfolio
-
 📋 About
 This portfolio website represents Javad Beig, a Mechanical Engineering undergraduate specializing in CAD, FEA, thermodynamics, and sustainable design. The site showcases his educational background, technical skills, project portfolio, and professional certifications.
 
@@ -26,36 +23,6 @@ CSS3: Custom properties, Flexbox, Grid, and animations
 JavaScript: ES6+ for interactive functionality
 Font Awesome: Professional icons
 Formspree: Contact form handling
-
-📁 Project Structure
-
-javad-beig-portfolio/
-│
-├── index.html
-├── assets/
-│   ├── backgrounds/
-│   │   ├── IMG_1.jpg
-│   │   ├── IMG_2.jpg
-│   │   └── ...
-│   ├── certificates/
-│   │   └── C_1.jpg
-│   ├── documents/
-│   │   ├── Javad_Beig_Resume.pdf
-│   │   └── P_1.pdf
-│   ├── favicon/
-│   │   ├── favicon-96x96.png
-│   │   ├── favicon.svg
-│   │   └── ...
-│   ├── profile/
-│   │   └── Profile.jpg
-│   └── project/
-│       └── project1/
-│           ├── IMG_1.jpg
-│           ├── IMG_2.jpg
-│           └── IMG_3.jpg
-├── css/
-│   └── styles.css
-└── README.md
 
 🚀 Setup and Deployment
 
